@@ -128,7 +128,7 @@ Die Python-Skripte in diesem Repository stehen unter der MIT-Lizenz (siehe `LICE
 
 ## Zitation
 
-Januzi, B., & Wilinski, A. (2026). *kldb-skos-neo4j* [Software und Daten]. GitHub. https://github.com/bleroni23/kldb-skos-neo4j
+Januzi, B., & Wilinski, A. (2026). KldB-SKOS-Neo4j: Maschinenlesbare Darstellung der Klassifikation der Berufe 1988 und 1992 mit Mappings zu ISCO-88 [Software]. Zenodo. https://doi.org/10.5281/zenodo.19698290
 
 Die Modellierung baut maßgeblich auf folgenden Arbeiten auf:
 
