@@ -1,6 +1,6 @@
-# kldb-skos-neo4j
+# KldB-SKOS-Neo4j: Maschinenlesbare Darstellung der Klassifikation der Berufe 1988 und 1992 mit Mappings zu ISCO-88
 
-Maschinenlesbare SKOS/RDF-Darstellung der Klassifikation der Berufe (KldB) 1988 und 1992 mit Mappings zu ISCO-88, zum Import in Neo4j. Modelliert mit SKOS und GLMO. Projekt für das Computational Social Science Projektpraktikum an der Universität Koblenz.
+Modelliert mit SKOS und GLMO, zum Import in Neo4j. Projekt für das Computational Social Science Projektpraktikum an der Universität Koblenz.
 
 ## Projektüberblick
 
