@@ -128,8 +128,6 @@ Die Python-Skripte in diesem Repository stehen unter der MIT-Lizenz (siehe `LICE
 
 ## Zitation
 
-## Zitation
-
 Januzi, B., & Wilinski, A. (2026). *kldb-skos-neo4j* [Software und Daten]. GitHub. https://github.com/bleroni23/kldb-skos-neo4j
 
 Die Modellierung baut maßgeblich auf folgenden Arbeiten auf:
