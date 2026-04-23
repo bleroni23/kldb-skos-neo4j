@@ -16,7 +16,7 @@ Die erzeugten TTL-Dateien können direkt in die Graph-Datenbank Neo4j importiert
 
 - `kldb1988.ttl` – SKOS/GLMO-Darstellung der KldB 1988
 - `kldb1992.ttl` – SKOS/GLMO-Darstellung der KldB 1992
-- `isco88_compact.ttl` – kompakte Darstellung der ISCO-88 (aus ESCO abgeleitet)
+- `isco88.ttl` – kompakte Darstellung der ISCO-88 (aus ESCO abgeleitet)
 - `mapping_kldb92_to_isco88.ttl` – Mapping zwischen KldB 1992 und ISCO-88
 
 **Python-Skripte zur Erzeugung der TTL-Dateien:**
